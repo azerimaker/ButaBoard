@@ -5,6 +5,15 @@ This repo contains all the necessary design, fabrication files and example codes
 - ATmega32u4 MCU, running @3.3V, 8MHz
 - 32KB Flash, 2.5 KB SRAM, 1KB EEPROM
 - IO pins: 14 (Crocodile clip-4mm Banana pads)
+- On-board peripherals:
+  - LIS3DH Accelerometer 
+  - ALS-PT19-315C analog light sensor
+  - AOS3729A analog microphone
+  - NTC Temperature Sensor
+  - Buzzer
+  - 12x WS2812B RGB LEDs
+  - 1x user button, 1x user LED
+  - Power Switch
 - Dimenions: ~94x61x5 mm
 
 ### ButaBoard v1
