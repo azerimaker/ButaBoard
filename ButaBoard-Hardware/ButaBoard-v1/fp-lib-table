@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Pads_Jumpers)(type KiCad)(uri "/Users/orkhan/Google Drive/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Pads_Jumpers.pretty")(options "")(descr ""))
+  (lib (name switch-footprints)(type KiCad)(uri "/Users/orkhan/Google Drive/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Switches-Relays/switch-footprints.pretty")(options "")(descr ""))
+  (lib (name sensor_footprints)(type KiCad)(uri "/Users/orkhan/Google Drive/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/Sensors/sensor_footprints.pretty")(options "")(descr ""))
+  (lib (name my_Buzzers-Speakers)(type KiCad)(uri "/Users/orkhan/Google Drive/FILE_EXCHANGE/PCB_Projects/KiCAD/mylib/my_Buzzers-Speakers.pretty")(options "")(descr ""))
+)
